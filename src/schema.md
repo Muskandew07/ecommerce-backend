@@ -6,7 +6,7 @@
      - password : String (Hashed)
      - Address : [
          {
-           -Address ( from address schema)
+           - Address ( from address schema)
          }
      ]
      - Orders : [
