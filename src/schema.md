@@ -23,12 +23,11 @@
      - comaptibleWith : ["iPhone13","iPhone12","Apple Watch" ]
      - stock : Number
      - color : String
-     - weight : String
-     - mfd : Number ( year manufactured in)
+     
 - ## Category
      - name : String
      - description : String
-- ## Orders
+- ## Order
      - address : Address ( from address schema ) 
      - user : User ( from user schema)
      - products : [
